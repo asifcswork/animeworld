@@ -1,0 +1,35 @@
+body{
+	background-image: url(https://www.awn.com/sites/default/files/styles/original/public/image/featured/1015106-naruto-shippuden-headed-cartoon-network.jpg?itok=ByX0kvx7);
+	background-position: center;
+	background-size:cover;
+	background-repeat: no-repeat ;
+
+}
+.logo{
+	width: 150px;
+	margin-top: 18px;
+	top:0; 
+	left:10;
+}
+.container .arrow{
+	    display: flex;
+    justify-content: center;
+}
+.container .select{
+	margin-top: 18px;
+	align-self: center;
+}
+.container .player{
+	 display: flex; 
+	 justify-content: center;
+
+
+}
+.icon{
+	width: 40px;
+	margin: 18px 10px 10px;
+	cursor: pointer;
+}
+
+
+
